@@ -1,0 +1,8 @@
+{
+  "name": "naturs-2022",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alonchete/naturs-2022.git",
+  "author": "Alonso Sanz <alonsete.tyr@gmail.com>",
+  "license": "MIT"
+}
